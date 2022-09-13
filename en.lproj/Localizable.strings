@@ -6,6 +6,57 @@
   
 */
 
+"Calendar" = "Calendar";
+"Last Six Months" = "Last Six Months";
+"This Week" = "This Week";
+"This Month" = "This Month";
+"Settings" = "Settings";
+"Today" = "Today";
+/* this if for showing the current color of the aoo and the available ones */
+"App Color: " = "App Color: ";
+"Link To Privacy Policy" = "Link To Privacy Policy";
+"Privacy Policy" = "Privacy Policy";
+/* i dont know why i have this one, im not even using it and have no intention of using it */
+"In-App Purchases" = "In-App Purchases" ;
+
+"Intensity:" = "Intensity:";
+"Intensity: " = "Intensity: ";
+"Intensity" = "Intensity";
+
+"Morning" = "Morning";
+"Noon" = "Noon";
+"Afternoon" = "Afternoon";
+"Evening & Night-time" = "Evening & Night-time";
+"Eve/Night" = "Eve/Night";
+/* this if for the short versions of Noon=N Afternoon=A Evening=E if you have a better idea that isnt longer than 1-3 letters im all for it */
+"N"="V";
+"A"="N";
+"E"="A";
+
+/* this if for statistics, which arent currently in the app but hopefully will be soon */
+"Statistics" = "Statistics";
+"Average; last six Months" = "Average; last six Months";
+"Average; all availabe data" = "Average; all availabe data";
+
+"All Data" = "All Data";
+"All Symptoms" = "All Symptoms";
+/* used in x number of days*/
+"days" = "days";
+
+/* This is for the different colors, all of the names are displayed to a user */
+"grey" = "grey";
+"purple" = "purple";
+"blue" = "blue";
+"red" = "red";
+"yellow" = "yellow";
+"mint" = "mint";
+"pink" = "pink";
+"indigo" = "indigo";
+"teal" = "teal";
+"beige" = "beige";
+"rainbowLight" = "rainbowLight";
+"rainbowExtreme" = "rainbowExtreme";
+
 "Evening & Nighttime" = "Evening & night-time";
 "tapMe" = "Tap the rectangle to add a new data entry. You can then change the intensity with the Slider. The values are between 0 and 15, 15 being the worst, 0 the best.";
 "unTapMe" = "Tap the rectangle again to remove the data entry. It will be deleted and not show up anymore. The slider will reset itself to 0.";
@@ -16,3 +67,15 @@
 * afternoon
 * evening/night-time
 ";
+
+"Other Features" = "Other Features";
+"Change Color of the app" = "Change Color of the app";
+"Track more than one symptom" = "Track more than one symptom";
+"Choose between four different times a day" = "Choose between four different times a day";
+"View data in calendar and weekly overview" = "View data in calendar and weekly overview";
+"Add older data entries in the calendar" = "Add older data entries in the calendar";
+"View all data in the settings" = "View all data in the settings";
+
+"Welcome!" = "Welcome!";
+"thank you for downloading my app" = "thank you for downloading my app";
+"Got it, let's Start!" = "Got it, let's Start!";

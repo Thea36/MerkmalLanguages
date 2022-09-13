@@ -23,20 +23,7 @@
 "Intensity: " = "Intensität: ";
 "Intensity" = "Intensity";
 "Statistics" = "Statistik";
-"Mon"="Mo";
-"Tue"="Di";
-"Wed"="Mi";
-"Thu"="Do";
-"Fri"="Fr";
-"Sat"="Sa";
-"Sun"="So";
 "Eve/Night" = "Abends/Nachts";
-"M"="M";
-"T"="D";
-"W"="M";
-"T"="D";
-"F"="F";
-"S"="S";
 
 "N"="V";
 "A"="N";
@@ -49,6 +36,7 @@
 "All Symptoms" = "Alle Symptome";
 "days" = "Tage";
 
+/* This is for the differnec colors, some have the same name in german as in english */
 "grey" = "grau";
 "purple" = "lila";
 "blue" = "blau";
