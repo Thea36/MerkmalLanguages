@@ -34,7 +34,8 @@
 
 "All Data" = "Alle Daten";
 "All Symptoms" = "Alle Symptome";
-"days" = "Tage";
+"active: " = "aktiv: ";
+"deactivated: " = "deaktiviert: ";
 
 /* This is for the differnec colors, some have the same name in german as in english */
 "grey" = "grau";

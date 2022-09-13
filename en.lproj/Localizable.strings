@@ -40,8 +40,8 @@
 
 "All Data" = "All Data";
 "All Symptoms" = "All Symptoms";
-/* used in x number of days*/
-"days" = "days";
+"active: " = "active: ";
+"deactivated: " = "deactivated: ";
 
 /* This is for the different colors, all of the names are displayed to a user */
 "grey" = "grey";

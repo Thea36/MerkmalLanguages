@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>symptom-count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@symptomNumber@</string>
+		<key>symptomNumber</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>Keine Symptome</string>
+			<key>one</key>
+			<string>Ein Symptom</string>
+			<key>two</key>
+			<string>Zwei Symptome</string>
+			<key>three</key>
+			<string>Drei Symptome</string>
+			<key>other</key>
+			<string>%u Symptome</string>
+		</dict>
+	</dict>
+	<key>days-in-all-data</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days_count@</string>
+		<key>days_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>Null Tage</string>
+			<key>one</key>
+			<string>Ein Tag</string>
+			<key>two</key>
+			<string>Zwei Tage</string>
+			<key>three</key>
+			<string>Drei Tage</string>
+			<key>other</key>
+			<string>%u Tage</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
