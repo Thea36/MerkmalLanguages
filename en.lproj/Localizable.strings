@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Merkmal
+
+  Created by Lena Mattea Stöxen on 28.02.22.
+  
+*/
+
+"Evening & Nighttime" = "Evening & night-time";
+"tapMe" = "Tap the rectangle to add a new data entry. You can then change the intensity with the Slider. The values are between 0 and 15, 15 being the worst, 0 the best.";
+"unTapMe" = "Tap the rectangle again to remove the data entry. It will be deleted and not show up anymore. The slider will reset itself to 0.";
+
+"listText" = "There are four differnt times you can choose from to add your entry throughout the day.
+* morning
+* noon
+* afternoon
+* evening/night-time
+";

@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  Merkmal
+
+  Created by Lena Mattea Stöxen on 28.02.22.
+  
+*/
+"Calendar" = "Kalender";
+"Last Six Months" = "Letzte sechs Monate";
+"This Week" = "Diese Woche";
+"This Month" = "Dieser Monat";
+"Settings" = "Einstellungen";
+"Today" = "Heute";
+"App Color: " = "Farbe der App:";
+"Link To Privacy Policy" = "Link zur Datenschutzerklärung";
+"Privacy Policy" = "Datenschutzerklärung";
+"In-App Purchases" = "In-App Käufe";
+"Morning" = "Morgens";
+"Noon" = "Vormitttags";
+"Afternoon" = "Nachmittags";
+"Evening & Nighttime" = "Abends & Nachts";
+"Intensity:" = "Intensität:";
+"Intensity: " = "Intensität: ";
+"Intensity" = "Intensity";
+"Statistics" = "Statistik";
+"Mon"="Mo";
+"Tue"="Di";
+"Wed"="Mi";
+"Thu"="Do";
+"Fri"="Fr";
+"Sat"="Sa";
+"Sun"="So";
+"Eve/Night" = "Abends/Nachts";
+"M"="M";
+"T"="D";
+"W"="M";
+"T"="D";
+"F"="F";
+"S"="S";
+
+"N"="V";
+"A"="N";
+"E"="A";
+
+"Average; last six Months" = "Durchschnitt, letzte 6 Monate";
+"Average; all availabe data" = "Durchschnitt, alle Daten";
+
+"All Data" = "Alle Daten";
+"All Symptoms" = "Alle Symptome";
+"days" = "Tage";
+
+"grey" = "grau";
+"purple" = "lila";
+"blue" = "blau";
+"red" = "rot";
+
+"tapMe" = "Tippe auf das Rechteck um einen Dateneintrag hinzuzufügen. Die Intensität des aufgezeichneten Symptoms kann mit dem Slider verändert werden. Die Werte das Sliders liegen zwischen Null und 15, wobei Null am besten und 15 am schlechtesten ist.";
+"unTapMe" = "Tippe noch mal auf das Rechteck um den Eintrag zu entfernen. Der Slider wird sich auf Null zurücksetzen.";
+
+"listText" = "Es gibt vier verschiedene Tageszeiten an denen ein Eintrag hinzugefügt werfden kann.
+* Morgens
+* Vormittags
+* Nachmittags
+* Abends und Nachts
+";
+
+"Other Features" = "Weitere Features";
+"Change Color of the app" = "Ändere die Farbe der App";
+"Track more than one symptom" = "Verfolge mehr als ein Symptom";
+"Choose between four different times a day" = "Wähle zwischen vier Tageszeiten";
+"View data in calendar and weekly overview" = "Sieh Einträge im Kalender und in einer wöchentlichen Ansicht";
+"Add older data entries in the calendar" = "Füge im Kalender ältere Einträge hinzu";
+"View all data in the settings" = "Sieh alle Einträge in den Einstellungen";
+
+"Welcome!" = "Willkommen!";
+"thank you for downloading my app" = "Danke fürs Herrunterladen meiner App, es bedeutet mir wirklich viel";
+"Got it, let's Start!" = "Ok, lass uns anfangen";
