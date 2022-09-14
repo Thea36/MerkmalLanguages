@@ -36,6 +36,8 @@
 "All Symptoms" = "Alle Symptome";
 "active: " = "aktiv: ";
 "deactivated: " = "deaktiviert: ";
+"All Trackable Symptoms" = "Alle verfolgbaren Symptome";
+"Add a new Symptom" = "Füge ein neues Symptom hinzu";
 
 /* This is for the differnec colors, some have the same name in german as in english */
 "grey" = "grau";
