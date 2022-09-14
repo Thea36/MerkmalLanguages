@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  Merkmal
+
+  Created by Lena Mattea Stöxen on 28.02.22.
+  
+*/
+
+"Calendar" = "Calendrier";
+"Last Six Months" = "Derniers six mois";
+"This Week" = "Cette semaine";
+"This Month" = "Ce mois";
+"Settings" = "Réglages";
+"Today" = "Aujourd'hui";
+/* this if for showing the current color of the aoo and the available ones */
+"App Color: " = "Couleur de l'application: ";
+"Link To Privacy Policy" = "Lien vers la politique de confidentialité";
+"Privacy Policy" = "Politique de confidentialité";
+/* i dont know why i have this one, im not even using it and have no intention of using it */
+"In-App Purchases" = "Achats intégrés" ;
+
+"Intensity:" = "Intensité:";
+"Intensity: " = "Intensité: ";
+"Intensity" = "Intensité";
+
+"Morning" = "Matin";
+"Noon" = "Midi";
+"Afternoon" = "Après midi";
+"Evening & Night-time" = "Soirée & Nuit";
+"Eve/Night" = "Veille/Nuit";
+/* this if for the short versions of Noon=N Afternoon=A Evening=E if you have a better idea that isnt longer than 1-3 letters im all for it */
+"N"="🕛";
+"A"="🕕";
+"E"="🌙";
+
+/* this if for statistics, which arent currently in the app but hopefully will be soon */
+"Statistics" = "Statistiques";
+"Average; last six Months" = "Moyenne; six derniers mois";
+"Average; all availabe data" = "Moyenne; toutes les données disponibles";
+
+"All Data" = "Toutes les données";
+"All Symptoms" = "Tous les symptômes";
+"active: " = "actif: ";
+"deactivated: " = "désactivé: ";
+
+/* This is for the different colors, all of the names are displayed to a user */
+"grey" = "gris";
+"purple" = "violet";
+"blue" = "bleu";
+"red" = "rouge";
+"yellow" = "jaune";
+"mint" = "menthe";
+"pink" = "rose";
+"indigo" = "indigo";
+"teal" = "sarcelle";
+"beige" = "beige";
+"rainbowLight" = "léger arc-en-ciel";
+"rainbowExtreme" = "extrême arc-en-ciel";
+
+"Evening & Nighttime" = "Soirée & nuit";
+"tapMe" = "Appuyez sur le rectangle pour ajouter une nouvelle entrée de données. Vous pouvez ensuite modifier l'intensité avec le curseur. Les valeurs sont comprises entre 0 et 15, 15 étant la pire, 0 la meilleure.";
+"unTapMe" = "Appuyez à nouveau sur le rectangle pour supprimer une entrée de données. Elle sera supprimée et ne s'affichera plus. Le curseur se remettra à 0.";
+
+"listText" = "Vous pouvez choisir parmi les quatre moments de la journée pour ajouter vos données.
+* matin
+* midi
+* après-midi
+* soirée/nuit
+";
+
+"Other Features" = "Autres fonctionnalités";
+"Change Color of the app" = "Changer la couleur de l'application";
+"Track more than one symptom" = "Suivre plus d'un symptôme";
+"Choose between four different times a day" = "Choisissez parmi les quatre moments de la journée";
+"View data in calendar and weekly overview" = "Afficher les données dans le calendrier (Aperçu hebdomadaire)";
+"Add older data entries in the calendar" = "Ajouter des données plus anciennes dans le calendrier";
+"View all data in the settings" = "Afficher toutes les données dans les paramètres";
+
+"Welcome!" = "Bienvenue !";
+"thank you for downloading my app" = "merci d'avoir téléchargé mon application";
+"Got it, let's Start!" = "C'est compris, commençons !";
