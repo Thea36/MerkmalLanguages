@@ -19,8 +19,15 @@
 /* i dont know why i have this one, im not even using it and have no intention of using it */
 "In-App Purchases" = "In-App Purchases" ;
 "Your purchase could not be verified by the App Store." = "Your purchase could not be verified by the App Store.";
-"Only tip if you can spare the money." = "Only tip if you can spare the money.";
+"Suport me with a tip:" = "Support me with a tip:";
+"Medium Tip" = "Medium Tip";
+"Large Tip" = "Large Tip";
 "Small Tip" = "Small Tip";
+"About me" = "about me":
+"IntroText" = "My name is Lena, I studdy computer science and develop apps in my free time. I hope you like this app and I am so happy you downloaded it."
+"Data" = "Data";
+"Links" = "Links";
+"Thank you for supporting me with a tip! " = "Thank you for supporting me with a tip! ";
 
 "Intensity:" = "Intensity:";
 "Intensity: " = "Intensity: ";
