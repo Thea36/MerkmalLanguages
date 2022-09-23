@@ -18,6 +18,8 @@
 "Privacy Policy" = "Privacy Policy";
 /* i dont know why i have this one, im not even using it and have no intention of using it */
 "In-App Purchases" = "In-App Purchases" ;
+"Your purchase could not be verified by the App Store." = "Your purchase could not be verified by the App Store.";
+"Only tip if you can spare the money." = "Only tip if you can spare the money.";
 
 "Intensity:" = "Intensity:";
 "Intensity: " = "Intensity: ";
