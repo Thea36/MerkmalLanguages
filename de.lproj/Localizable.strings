@@ -14,7 +14,20 @@
 "App Color: " = "Farbe der App:";
 "Link To Privacy Policy" = "Link zur Datenschutzerklärung";
 "Privacy Policy" = "Datenschutzerklärung";
+
 "In-App Purchases" = "In-App Käufe";
+"Suport me with a tip:" = "Unterstütze mich:";
+"About me" = "Über mich";
+"IntroText" = "Mein Name ist Lena und ich studiere Informatik. In meiner Freizeit programiere ich gerne. Ich hoffe dir gefällt diese App und ich freue mich, dass du sie herruntergeladen hast.";
+"Data" = "Daten:";
+"Links" = "Links:";
+"Thank you for supporting me with a tip! " = "Danke! Ich freue mich über deine Unterstützung.";
+"Restore Purchases" = "Restore Purchases";
+"Special thanks to my friends, family, Testers and Audrey for the french translation." = "Special thanks to my friends, family, Testers and Audrey for the french translation.";
+"If your want to help translate MerkMal, you can do so here." = "If your want to help translate MerkMal, you can do so here.";
+
+
+
 "Morning" = "Morgens";
 "Noon" = "Vormitttags";
 "Afternoon" = "Nachmittags";

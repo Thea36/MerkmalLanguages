@@ -28,6 +28,10 @@
 "Data" = "Data:";
 "Links" = "Links";
 "Thank you for supporting me with a tip! " = "Thank you for supporting me with a tip! ";
+"Restore Purchases" = "Restore Purchases";
+"Special thanks to my friends, family, Testers and Audrey for the french translation." = "Special thanks to my friends, family, Testers and Audrey for the french translation.";
+"If your want to help translate MerkMal, you can do so here." = "If your want to help translate MerkMal, you can do so here.";
+
 
 "Intensity:" = "Intensity:";
 "Intensity: " = "Intensity: ";
@@ -38,6 +42,10 @@
 "Afternoon" = "Afternoon";
 "Evening & Night-time" = "Evening & Night-time";
 "Eve/Night" = "Eve/Night";
+/* this if for the short versions of Noon=N Afternoon=A Evening=E if you have a better idea that isnt longer than 1-3 letters im all for it */
+"N"="V";
+"A"="N";
+"E"="A";
 
 /* this if for statistics, which arent currently in the app but hopefully will be soon */
 "Statistics" = "Statistics";
