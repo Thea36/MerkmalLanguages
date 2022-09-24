@@ -18,9 +18,19 @@
 "Privacy Policy" = "Politique de confidentialité";
 /* i dont know why i have this one, im not even using it and have no intention of using it */
 "In-App Purchases" = "Achats intégrés" ;
+"Your purchase could not be verified by the App Store." = "Votre achat n'a pas pu être vérifié par l'App Store.";
+"Suport me with a tip:" = "Soutenez-moi avec un pourboire :";
+"Medium Tip" = "Pourboire moyen";
+"Large Tip" = "Pourboire généreux";
+"Small Tip" = "Petit pourboire";
+"About me" = "À propos de moi";
+"IntroText" = "Je m'appelle Lena, je suis étudiante en informatique et je développe des applications durant mon temps libre. J'espère que vous aimez cette application et je suis très heureuse que vous l'ayez téléchargée.";
+"Data" = "Données :";
+"Links" = "Liens";
+"Thank you for supporting me with a tip! " = "Merci de me soutenir avec un pourboire";
 
-"Intensity:" = "Intensité:";
-"Intensity: " = "Intensité: ";
+"Intensity:" = "Intensité :";
+"Intensity: " = "Intensité :";
 "Intensity" = "Intensité";
 
 "Morning" = "Matin";
@@ -28,10 +38,6 @@
 "Afternoon" = "Après midi";
 "Evening & Night-time" = "Soirée & Nuit";
 "Eve/Night" = "Veille/Nuit";
-/* this if for the short versions of Noon=N Afternoon=A Evening=E if you have a better idea that isnt longer than 1-3 letters im all for it */
-"N"="🕛";
-"A"="🕕";
-"E"="🌙";
 
 /* this if for statistics, which arent currently in the app but hopefully will be soon */
 "Statistics" = "Statistiques";
@@ -40,8 +46,10 @@
 
 "All Data" = "Toutes les données";
 "All Symptoms" = "Tous les symptômes";
-"active: " = "actif: ";
-"deactivated: " = "désactivé: ";
+"active: " = "actif :";
+"deactivated: " = "désactivé :";
+"All Trackable Symptoms" = "Tous les symptômes traçables";
+"Add a new Symptom" = "Ajouter un nouveau symptôme";
 
 /* This is for the different colors, all of the names are displayed to a user */
 "grey" = "gris";
